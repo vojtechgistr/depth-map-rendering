@@ -12,3 +12,11 @@ A small console app that renders real-time depth data from the Intel Realsense c
 ![image](https://github.com/vojtechgistr/depth-map-rendering/assets/56306485/db43ba79-12e9-465d-915d-0a7895a7ddab)
 
 ![image](https://github.com/vojtechgistr/depth-map-rendering/assets/56306485/88a558b5-595e-4fb9-8cf2-1fb4bfd2957e)
+
+## Dependencies Libraries and Products
+#### [librealsense]([https://github.com/emgucv/emgucv](https://github.com/IntelRealSense/librealsense))
+> **License:** Apache License 2.0
+>
+> **Author:** IntelRealSense
+>
+> **Principal Use:** Communication with Intel Realsense D435 camera
